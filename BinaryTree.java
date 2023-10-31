@@ -8,7 +8,7 @@ class Node {
     }
 }
 
-class BinaryTree {
+public class BinaryTree {
     Node root;
 
     BinaryTree() {
